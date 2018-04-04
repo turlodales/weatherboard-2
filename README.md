@@ -21,7 +21,7 @@ i would like to say a big thank you to the people that has helped me make this h
 
 Allan Kerr the person that make this tweak in the first place
 
-myself to prove to myself that even someone like me with dislexic can do thing to help the jailbraking cumunity
+myself to prove that even someone like me with dislexic can do thing to help the jailbraking cumunity
 
 FreeNAS OS for my Home Server's
 
