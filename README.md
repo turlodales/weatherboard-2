@@ -4,35 +4,13 @@ a working verson of weatherboard 2 for but ios 8.0 to 9.3.5
 
 why am i putting is on github:
 
-for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved
+for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
-Already Supports 
+Already Supports: 
 iPhone 4s, iOS 9.3.5  
 iPhone 5s iOS 9.3.3 
 iPhone 6S+ 9.3.3 
 iPad Air 2 9.3.3 
-
-device support 32bit only: 
-iPhone 4s, iOS 9.3.5 iphone 
-5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
-
-device support 64bit only:
-iPhone 5S (11.2.3 beta 5) 
-iPhone 6S+ (10.2) 
-iPhone 8+ (11.0) 
-iPad Air 2 10.2 (at mo has a broken screen) so cant test at mo, 
-iPad Pro 12.9 (10.2)
-
-planned device support 64bit only:
-
-iPhone SE (unknow if working or not untill i test) (10.2 the verson that kill it to 10.3.3) 
-iPhone 6/+ 10.2 (the verson that kill it) 
-iPhone 6S/+ 10.2 (the verson that kill it) (got 6S+ just needs 6S)
-iPhone 7/+ 10.2 (the verson that kill it) 
-iPhone 8/+ 11.0 (the verson that kill it) 
-iPhone X 11.0 (the verson that kill it)
-all iPad's from the Air and up. 
-Apple TV 4 10.2.2 (if or then i can get mine jailbroken) (using greeng0blin)and if i can get it to work and can make it compatable)
 
 new fetures:
 no new fetures as of this point not so say it will never happen just not yet just getting it up and running first is the main thing
