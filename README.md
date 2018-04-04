@@ -6,24 +6,41 @@ why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
-# Supported devices
+# Supported Devices
 | Device | Supports |
 |---------|----------|
-| iPhone 6/+ | iOS 10.2.1 |
-| iPhone 6S/+ | iOS 10.2.1 |
-| iPhone SE | iOS 10.2.1 |
-| iPad Air 2 | iOS 10.2.1 |
-| iPad Mini 4 | iOS 10.2.1 |
-| iPod Touch 6 | iOS 10.2.1 |
-| iPhone 7/+ | Not Supported |
-| iPhone 5S | Not Supported |
-| iPad Air | Not Supported |
+| iPhone 4s | iOS 8.0 to 9.3.5 |
+| iPhone 5S | iOS 9.3.5 |
+| iPhone 6/+ | iOS 9.3.5 |
+| iPhone 6S/+ | iOS 9.3.3 |
+| iPad Air 2 | iOS 9.3.3 |
 
-Already Supports: 
-iPhone 4s, iOS 9.3.5  
-iPhone 5s iOS 9.3.3 
-iPhone 6S+ 9.3.3 
-iPad Air 2 9.3.3 
+
+# Not Supported Devices Yet as i dont have
+| Device | Supports |
+|---------|----------|
+| iPhone 5 | Untested  |
+| iPhone SE | Untested  |
+| iPhone 6/+ | Untested  |
+| iPhone 7/+ | Untested |
+| iPhone 8 | Untested |
+| iPhone X | Untested  |
+| iPad Mini 4 | Untested  |
+| iPad Air | Untested  |
+| iPod Touch 6 | Untested |
+
+
+
+# Not Supported Devices Yet
+| Device | Supports |
+|---------|----------|
+| iPhone 5S | iOS 10.2 to 11.1.2 |
+| iPhone 5C | iOS 10.2 to 11.1.2 |
+| iPhone 6S/+ | iOS 10.2 to 11.1.2 |
+| iPhone 8+ | iOS 11.0 to 11.1.2 |
+| iPad Air 2 | iOS 10.2 to 11.1.2 |
+| iPad Air Pro 12.9 | iOS 10.2 to 11.1.2 |
+
 
 new fetures:
 no new fetures as of this point not so say it will never happen just not yet just getting it up and running first is the main thing
