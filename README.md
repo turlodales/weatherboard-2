@@ -6,10 +6,10 @@ why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
-# Supported Devices                           # Supported Devices
-| Device | Supports |                         | Device | Supports |
-|---------|----------|                        |---------|----------|
-| iPhone 4s | iOS 8.0 to 9.3.5 |              | iPhone 4s | iOS 8.0 to 9.3.5 |
+# Supported Devices                          
+| Device | Supports |                         
+|---------|----------|                       
+| iPhone 4s | iOS 8.0 to 9.3.5 |              
 | iPhone 5S | iOS 9.3.5 |
 | iPhone 6/+ | iOS 9.3.5 |
 | iPhone 6S/+ | iOS 9.3.3 |
