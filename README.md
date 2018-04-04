@@ -6,6 +6,19 @@ why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
+# Supported devices
+| Device | Supports |
+|---------|----------|
+| iPhone 6/+ | iOS 10.2.1 |
+| iPhone 6S/+ | iOS 10.2.1 |
+| iPhone SE | iOS 10.2.1 |
+| iPad Air 2 | iOS 10.2.1 |
+| iPad Mini 4 | iOS 10.2.1 |
+| iPod Touch 6 | iOS 10.2.1 |
+| iPhone 7/+ | Not Supported |
+| iPhone 5S | Not Supported |
+| iPad Air | Not Supported |
+
 Already Supports: 
 iPhone 4s, iOS 9.3.5  
 iPhone 5s iOS 9.3.3 
