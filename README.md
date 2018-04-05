@@ -1,17 +1,51 @@
 weatherboard 2
 
-a working verson of weatherboard 2 for but ios 8.0 to 9.3.5
+a working verson of weatherboard 2 for but ios 8.3 to 9.3.5
+
+Ver:1.2.0-1
 
 why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
-# Supported Devices                          
-| Device | Supports |                         
-|---------|----------|                       
-| iPhone 4s | iOS 8.0 to 9.3.5 |              
-| iPhone 5S | iOS 9.3.5 |
-| iPhone 6/+ | iOS 9.3.5 |
+
+# Supported iOS 8.0 to iOS 8.4.1 Devices 32Bit
+| Device | iOS |Supports|
+|---------|----------|----------|
+| iPhone 4s | iOS 8.0 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.0.1 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.0.2 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.1 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.1.1 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.1.2 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.1.3 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.2 || working |
+| iPhone 4s | iOS 8.3 || iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.4 || iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 8.4.1 || iOS 8.0 to 9.3.5 |
+
+# Supported iOS 9.0 to iOS 9.3.5 Devices 32Bit
+| Device | iOS |Supports|
+|---------|----------|----------|
+| iPhone 4s | iOS 9.0 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.0.1 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.0.2 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.1 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.2 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.2.1 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3 || iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3.1 || iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3.2 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3.3 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3.4 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3.5 | working|
+
+
+# Supported Devices 64Bit
+| Device | Supports |
+|---------|----------|
+| iPhone 5S | iOS 9.3.3 |
+| iPhone 6/+ | iOS 9.3.3 |
 | iPhone 6S/+ | iOS 9.3.3 |
 | iPad Air 2 | iOS 9.3.3 |
 
@@ -33,12 +67,51 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 # Not Supported Devices Yet
 | Device | Supports |
 |---------|----------|
-| iPhone 5S | iOS 10.2 to 11.1.2 |
-| iPhone 5C | iOS 10.2 to 11.1.2 |
-| iPhone 6S/+ | iOS 10.2 to 11.1.2 |
+| iPhone 5S | iOS 9.3.5 to 11.1.2 |
+| iPhone 5C | iOS 9.3.5 to 10.3.3 |
+| iPhone 6S/+ | iOS 9.3.5 to 11.1.2 |
 | iPhone 8+ | iOS 11.0 to 11.1.2 |
-| iPad Air 2 | iOS 10.2 to 11.1.2 |
-| iPad Air Pro 12.9 | iOS 10.2 to 11.1.2 |
+| iPad Air 2 | iOS 9.3.5 to 11.1.2 |
+| iPad Air Pro 12.9 | iOS 9.3.5 to 11.1.2 |
+
+
+# My iPhone Devices 32Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPhone 5C | iOS 9.3.3 | untested |
+| iPhone 5C | iOS 9.3.4 | untested |
+| iPhone 5C | iOS 9.3.5 | untested |
+
+
+iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
+
+
+# My iPhones iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
+| iPhone 5S | iOS 9.3.3 | working || iPhone 6S+ | iOS 9.3.3 | working |
+| iPhone 5S | iOS 9.3.4 | untested || iPhone 6S+ | iOS 9.3.4 | untested |
+| iPhone 5S | iOS 9.3.5 | untested || iPhone 6S+ | iOS 9.3.5 | untested |
+
+
+# My iPad's iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
+| iPad Air 2 | iOS 9.3.3 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
+| iPad Air 2 | iOS 9.3.4 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | untested |
+| iPad Air 2 | iOS 9.3.5 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | untested |
+
+
+# Planned Supported Devices 
+| Device | Supports |
+|---------|----------|
+| iphone 5C | planned |
+| iphone 5S | planned |
+| iphone 6/+ | planned |
+| iphone 6S/+ | planned |
+| iphone 7/+ | planned |
+| iphone SE | planned |
+| apple tv 4 | planned |
 
 
 new fetures:
