@@ -31,12 +31,12 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 4s | iOS 9.0.1 | iOS 8.0 to 9.3.5 |
 | iPhone 4s | iOS 9.0.2 | iOS 8.0 to 9.3.5 |
 | iPhone 4s | iOS 9.1 | iOS 8.0 to 9.3.5 |
-| iPhone 4s | iOS 9.2 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.2 | working |
 | iPhone 4s | iOS 9.2.1 | iOS 8.0 to 9.3.5 |
 | iPhone 4s | iOS 9.3 || iOS 8.0 to 9.3.5 |
 | iPhone 4s | iOS 9.3.1 || iOS 8.0 to 9.3.5 |
 | iPhone 4s | iOS 9.3.2 | iOS 8.0 to 9.3.5 |
-| iPhone 4s | iOS 9.3.3 | iOS 8.0 to 9.3.5 |
+| iPhone 4s | iOS 9.3.3 | working |
 | iPhone 4s | iOS 9.3.4 | iOS 8.0 to 9.3.5 |
 | iPhone 4s | iOS 9.3.5 | working|
 
