@@ -10,53 +10,21 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Devices 32Bit
 
-# iPhone 4S Supported iOS 7.0 to iOS 7.1.2 
-| iOS |Supports| iOS |Supports|
-|----------|----------|----------|----------|
-| iOS 7.0 | Untested/Unknown |iOS 8.0 | Untested/Unknown |
-| iOS 7.0.1	| N/A |iOS 8.0.1 | Untested/Unknown
-| iOS 7.0.2	| Untested/Unknown | iOS 8.0.2 |Untested/Unknown |
-| iOS 7.0.3	| Untested/Unknown |iOS 8.1 | Untested/Unknown |
-| iOS 7.0.4	| Untested/Unknown |iOS 8.1.1 | Untested/Unknown |
-| iOS 7.0.5	| N/A |iOS 8.1.2 | Untested/Unknown |
-| iOS 7.0.6	| Untested/Unknown |iOS 8.1.3 | Untested/Unknown |
-| iOS 7.1 | Untested/Unknown |iOS 8.2 | Working/Tested |
-| iOS 7.1.1	| Untested/Unknown |iOS 8.3 | Untested/Unknown |
-| iOS 7.1.2 | Untested/Unknown |iOS 8.4 | Untested/Unknown |
-|  |  |iOS 8.4.1 | Untested/Unknown |
-
-
-# iPhone 4S Supported iOS 8.0 to iOS 8.4.1 
-| iOS |Supports|
-|----------|----------|
-| iOS 8.0 | Untested/Unknown |
-|  |
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-
-
-
-# iPhone 4S Supported iOS 9.0 to iOS 9.3.5 
-| iOS |Supports|
-|----------|----------|
-| iOS 9.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |
-| iOS 9.2 | working/tested |
-| iOS 9.2.1 | Untested/Unknown |
-| iOS 9.3 || Untested/Unknown |
-| iOS 9.3.1 || Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |
-| iOS 9.3.3 | working/tested |
-| iOS 9.3.4 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|
+# iPhone 4S Supported iOS 7.0 to iOS 9.3.5 
+| iOS |Supports| iOS |Supports|iOS |Supports|
+|----------|----------|----------|----------|----------|----------|
+| iOS 7.0 | Untested/Unknown |iOS 8.0 | Untested/Unknown |iOS 9.0 | Untested/Unknown |
+| iOS 7.0.1	| N/A |iOS 8.0.1 | Untested/Unknown| iOS 9.0.1 | Untested/Unknown |
+| iOS 7.0.2	| Untested/Unknown | iOS 8.0.2 |Untested/Unknown |iOS 9.0.2 | Untested/Unknown |
+| iOS 7.0.3	| Untested/Unknown |iOS 8.1 | Untested/Unknown |iOS 9.1 | Untested/Unknown |
+| iOS 7.0.4	| Untested/Unknown |iOS 8.1.1 | Untested/Unknown |iOS 9.2 | working/tested |
+| iOS 7.0.5	| N/A |iOS 8.1.2 | Untested/Unknown |iOS 9.2.1 | Untested/Unknown |
+| iOS 7.0.6	| Untested/Unknown |iOS 8.1.3 | Untested/Unknown |iOS 9.3 || Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |iOS 8.2 | Working/Tested |iOS 9.3.1 || Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown |iOS 8.3 | Untested/Unknown |iOS 9.3.2 | Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |iOS 8.4 | Untested/Unknown |iOS 9.3.3 | working/tested |
+|  |  | |  |iOS 9.3.4 | Untested/Unknown |
+|  |  | |  |iOS 9.3.5 | working/tested|
 
 
 # Not Supported Devices Yet as i dont have
