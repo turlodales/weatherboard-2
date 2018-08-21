@@ -20,10 +20,11 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 7.0.4	| Untested/Unknown |iOS 8.1.1 | Untested/Unknown |
 | iOS 7.0.5	| N/A |iOS 8.1.2 | Untested/Unknown |
 | iOS 7.0.6	| Untested/Unknown |iOS 8.1.3 | Untested/Unknown |
-| iOS 7.1 | Untested/Unknown |iOS 8.2 || Working/Tested |
-| iOS 7.1.1	| Untested/Unknown |iOS 8.3 || Untested/Unknown |
-| iOS 7.1.2 | Untested/Unknown |iOS 8.4 || Untested/Unknown |
-| iOS 8.4.1 || Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |iOS 8.2 | Working/Tested |
+| iOS 7.1.1	| Untested/Unknown |iOS 8.3 | Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |iOS 8.4 | Untested/Unknown |
+|  |  |iOS 8.4.1 | Untested/Unknown |
+
 
 # iPhone 4S Supported iOS 8.0 to iOS 8.4.1 
 | iOS |Supports|
