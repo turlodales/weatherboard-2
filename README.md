@@ -10,6 +10,15 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Devices 32Bit
 
+# Supported Devices 32Bit
+| Device | Supports |
+|---------|----------|
+| iPhone 4 | ?? |
+| iPhone 4S | iOS 9.3.3/9.3.5 |
+| iPhone 5 | iOS 9.3.3 |
+| iPhone 5C | iOS 9.3.3 |
+
+
 # iPhone 4 Supported iOS 7.0 to iOS 7.1.2 
 | iOS |Supports| 
 |----------|----------|
@@ -118,106 +127,26 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 |  |  | |  |iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|
 
 
-# iPhone 5S Supported iOS 7.0 to iOS 7.1.2  
-| iOS |Supports|
-|----------|----------|
-| iOS 7.0 | Untested/Unknown |
-| iOS 7.0.1	| Untested/Unknown|
-| iOS 7.0.2	| Untested/Unknown |
-| iOS 7.0.3	| Untested/Unknown |
-| iOS 7.0.4	| Untested/Unknown |
-| iOS 7.0.5	| Untested/Unknown |
-| iOS 7.0.6	| Untested/Unknown |
-| iOS 7.1	 || Untested/Unknown |
-| iOS 7.1.1	|| Untested/Unknown |
-| iOS 7.1.2 || Untested/Unknown |
+# iPhone 5S iOS 11.0 to iOS 12.0
+| iOS |Supports|iOS |Supports|
+|----------|----------|----------|----------|
+| iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 11.3.1 | Not Working|iOS 12.0 | Untested/Unknown |
+| iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 
-
-# iPhone 5S Supported iOS 8.0 to iOS 8.4.12 
-| iOS |Supports|
-|----------|----------|
-| iOS 8.0 | Untested/Unknown |
-| iOS 8.0.1 | Untested/Unknown |
-| iOS 8.0.2 | Untested/Unknown |
-| iOS 8.1 | Untested/Unknown |
-| iOS 8.1.1 | Untested/Unknown |
-| iOS 8.1.2 | Untested/Unknown |
-| iOS 8.1.3 | Untested/Unknown |
-| iOS 8.2 | Untested/Unknown |
-| iOS 8.3 | Untested/Unknown |
-| iOS 8.4 | Untested/Unknown |
-| iOS 8.4.1 | Untested/Unknown |
-
-# iPhone 5S iOS 9.0 to iOS 9.3.5 
-| iOS |Supports|
-|----------|----------|
-| iOS 9.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |
-| iOS 9.2 | working/tested |
-| iOS 9.2.1 | Untested/Unknown |
-| iOS 9.3 || Untested/Unknown |
-| iOS 9.3.1 || Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |
-| iOS 9.3.3 | working/tested |
-| iOS 9.3.4 | Untested/Unknown |
-| iOS 9.3.5 | Untested/Unknown|
-
-
-# iPhone 5S iOS 10.0 to iOS 10.3.3 
-| Device | iOS |Supports|
-|---------|----------|----------|
-| iOS 10.0 | Untested/Unknown |
-| iOS 10.0.1 | Untested/Unknown |
-| iOS 10.0.2 | Untested/Unknown |
-| iOS 10.0.3 | Untested/Unknown |
-| iOS 10.1 | Untested/Unknown |
-| iOS 10.1.1 | Untested/Unknown |
-| iOS 10.2 | Untested/Unknown |
-| iOS 10.2.1 | Untested/Unknown |
-| iOS 10.3| Untested/Unknown |
-| iOS 10.3.1 | Untested/Unknown |
-| iOS 10.3.2 | Untested/Unknown |
-| iOS 10.3.3 | Untested/Unknown|
-
-
-# iPhone 5S iOS 11.0 to iOS 11.4.1 
-| iOS |Supports|
-|----------|----------|
-| iOS 11.0	| Untested/Unknown |
-| iOS 11.0.1	| Untested/Unknown |
-| iOS 11.0.2 | Untested/Unknown |
-| iOS 11.0.3	 | Untested/Unknown |
-| iOS 11.1	| Untested/Unknown |
-| iOS 11.1.1 | Untested/Unknown |
-| iOS 11.1.2 | Untested/Unknown |
-| iOS 11.2 | Untested/Unknown |
-| iOS 11.2.1 | Untested/Unknown |
-| iOS 11.2.2 | Untested/Unknown |
-| iOS 11.2.5 | Untested/Unknown |
-| iOS 11.2.6 | Untested/Unknown|
-| iOS 11.3 | Untested/Unknown|
-| iOS 11.3.1 | Untested/Unknown|
-| iOS 11.4 | Untested/Unknown|
-| iOS 11.4.1 | Untested/Unknown|
-
-
-# iPhone 5S iOS 12.0 to iOS 12.0 
-| iOS |Supports|
-|----------|----------|
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
-| iOS 12.0 | Untested/Unknown |
 
 # iPhone 6/+ Supported iOS 7.0 to iOS 7.1.2  
 | iOS |Supports|
