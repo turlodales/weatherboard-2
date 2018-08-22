@@ -123,7 +123,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
 | iOS |5S|6/+|6S/+|SE|
-|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|
 | iOS 9.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 9.0.1 	| N/A | N/A |N/A |Untested/Unknown |
 | iOS 9.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |
