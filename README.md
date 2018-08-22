@@ -134,6 +134,8 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+
+
 # Supported Devices iOS 9.0 to iOS 9.3.5
 | iOS |4S|5|5C|
 |----------|----------|----------|----------|
@@ -163,6 +165,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+
 # Supported Devices iOS 10.0 to iOS 10.3.3
 | iOS |5|5C|
 |----------|----------|----------|
@@ -178,6 +181,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 10.3.1| Untested/Unknown |Untested/Unknown |
 | iOS 10.3.2| Untested/Unknown |Untested/Unknown |
 | iOS 10.3.3| Untested/Unknown |working/tested|
+
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 | iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
 |----------|----------|----------|----------|----------|----------|----------|----------|
