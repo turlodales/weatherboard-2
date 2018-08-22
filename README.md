@@ -65,22 +65,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 9.3.5| Untested/Unknown |working/tested|Untested/Unknown |
 
 
-# Supported Devices iOS 10.0 to iOS 10.3.3
-| iOS |4S|5|5C|
-|----------|----------|----------|----------|
-| iOS 10.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.0.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.1 | Untested/Unknown | Working/Tested|Untested/Unknown |
-| iOS 10.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.2.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.3.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.3.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 10.3.3| Untested/Unknown |working/tested|Untested/Unknown |
-
 # Not Supported Devices Yet as i dont have
 | Device | Supports |
 |---------|----------|
@@ -110,34 +94,46 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-| iOS |5S|6/+|6S/+|7/+|8/+|7/+|
-|----------|----------|----------|----------|----------|
-| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.1	| N/A | N/A |N/A |Untested/Unknown |
-| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.5	| N/A |N/A |N/A |
-| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-
+| iOS |5S|
+|----------|----------|
+| iOS 7.0 | Untested/Unknown |
+| iOS 7.0.1	| N/A | 
+| iOS 7.0.2	| Untested/Unknown | 
+| iOS 7.0.3	| Untested/Unknown | 
+| iOS 7.0.4	| Untested/Unknown | 
+| iOS 7.0.5	| N/A |
+| iOS 7.0.6	| Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown  |
+| iOS 7.1.2 | Untested/Unknown  |
 
 # Supported Devices iOS 8.0 to iOS 8.3
-| iOS |4S|5|5C|
-|----------|----------|----------|----------|
-| iOS 8.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.2 | Working/Tested  |Untested/Unknown |Untested/Unknown |
-| iOS 8.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS |5S|6/+|
+|----------|----------|----------|----------|----------|
+| iOS 8.0  | Untested/Unknown |Untested/Unknown |
+| iOS 8.0.1 	|Untested/Unknown |Untested/Unknown |
+| iOS 8.0.2| Untested/Unknown | Untested/Unknown |
+| iOS 8.1	| Untested/Unknown |Untested/Unknown |
+| iOS 8.1.1	| Untested/Unknown |Untested/Unknown |
+| iOS 8.1.2	| Untested/Unknown |Untested/Unknown |
+| iOS 8.1.3	| Untested/Unknown |Untested/Unknown |
+| iOS 8.2| Untested/Unknown |Untested/Unknown |
+| iOS 8.3	| Untested/Unknown |Untested/Unknown |
 
 
+# Supported Devices iOS 7.0 to iOS 7.1.2 
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.5	| N/A |N/A |N/A |
+| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 # Supported Devices iOS 9.0 to iOS 9.3.5
 | iOS |4S|5|5C|
 |----------|----------|----------|----------|
@@ -154,7 +150,19 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 9.3.4| Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 9.3.5| Untested/Unknown |working/tested|Untested/Unknown |
 
-
+# Supported Devices iOS 7.0 to iOS 7.1.2 
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.5	| N/A |N/A |N/A |
+| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 # Supported Devices iOS 10.0 to iOS 10.3.3
 | iOS |5|5C|
 |----------|----------|----------|
@@ -170,7 +178,19 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 10.3.1| Untested/Unknown |Untested/Unknown |
 | iOS 10.3.2| Untested/Unknown |Untested/Unknown |
 | iOS 10.3.3| Untested/Unknown |working/tested|
-
+# Supported Devices iOS 7.0 to iOS 7.1.2 
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.5	| N/A |N/A |N/A |
+| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 # iPhone 5S Supported iOS 7.0 to iOS 12.0 
 | iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
