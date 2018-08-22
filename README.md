@@ -35,35 +35,51 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-| iOS |4| 4S|5|5C|
-|----------|----------|----------|----------|----------|
-| iOS 8.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.2 | Working/Tested  |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS |4S|5|5C|
+|----------|----------|----------|----------|
+| iOS 8.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.2 | Working/Tested  |Untested/Unknown |Untested/Unknown |
+| iOS 8.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-| iOS |4| 4S|5|5C|
-|----------|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.2 | Untested/Unknown | Working/Tested|Untested/Unknown |Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.4| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.5| Untested/Unknown |working/tested|Untested/Unknown |Untested/Unknown |
+| iOS |4S|5|5C|
+|----------|----------|----------|----------|
+| iOS 9.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.2 | Untested/Unknown | Working/Tested|Untested/Unknown |
+| iOS 9.2.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.4| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.5| Untested/Unknown |working/tested|Untested/Unknown |
 
+
+# Supported Devices iOS 10.0 to iOS 10.3.3
+| iOS |4S|5|5C|
+|----------|----------|----------|----------|
+| iOS 10.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.0.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.1 | Untested/Unknown | Working/Tested|Untested/Unknown |
+| iOS 10.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.2.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.3.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.3.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 10.3.3| Untested/Unknown |working/tested|Untested/Unknown |
 
 # Not Supported Devices Yet as i dont have
 | Device | Supports |
@@ -81,22 +97,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
 
-
-# iPhone 5C Supported iOS 7.0 to iOS 10.3.3 
-| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 7.0 | Untested/Unknown |iOS 8.0 | Untested/Unknown |iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |
-| iOS 7.0.1	| N/A |iOS 8.0.1 | Untested/Unknown| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |
-| iOS 7.0.2	| Untested/Unknown | iOS 8.0.2 |Untested/Unknown |iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |
-| iOS 7.0.3	| Untested/Unknown |iOS 8.1 | Untested/Unknown |iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |
-| iOS 7.0.4	| Untested/Unknown |iOS 8.1.1 | Untested/Unknown |iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |
-| iOS 7.0.5	| N/A |iOS 8.1.2 | Untested/Unknown |iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |
-| iOS 7.0.6	| Untested/Unknown |iOS 8.1.3 | Untested/Unknown |iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |
-| iOS 7.1 | Untested/Unknown |iOS 8.2 | Working/Tested |iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |
-| iOS 7.1.1	| Untested/Unknown |iOS 8.3 | Untested/Unknown |iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |
-| iOS 7.1.2 | Untested/Unknown |iOS 8.4 | Untested/Unknown |iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |
-|  |  | iOS 8.4.1| Untested/Unknown  |iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |
-|  |  | |  |iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|
 
 # Devices 64Bit
 
