@@ -36,7 +36,10 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 7.0 to iOS 9.3.5 
 |device |iOS7.0 | iOS 7.0.1 |iOS 7.0.2| iOS 7.0.3|iOS 7.0.4	|iOS 7.0.5|iOS 7.0.6| iOS 7.1 |iOS 7.1.1| iOS 7.1.2|iOS 8.0|iOS 8.0.1|iOS 8.0.2| iOS 8.1 |iOS 8.1.1 | iOS 8.1.2 |iOS 8.1.3|iOS 8.2|iOS 8.3| iOS 8.4 |iOS 9.0 |iOS 9.0.1 |iOS 9.0.2|iOS 9.1|iOS 9.2 | iOS 9.2.1  |iOS 9.3| iOS 9.3.1|iOS 9.3.2|iOS 9.3.3|iOS 9.3.4 | iOS 9.3.5 |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|---------- |---------- | ---------- |----------| ----------|----------	|----------|----------| ---------- |----------| ----------|----------|----------|----------| ---------- |----------| ----------|----------|----------|----------| ----------|----------|----------|----------|----------|----------| ----------|----------| ----------|----------|----------|----------| ----------|
+|iPhone 4S |iOS7.0 | iOS 7.0.1 |iOS 7.0.2| iOS 7.0.3|iOS 7.0.4	|iOS 7.0.5|iOS 7.0.6| iOS 7.1 |iOS 7.1.1| iOS 7.1.2|iOS 8.0|iOS 8.0.1|iOS 8.0.2| iOS 8.1 |iOS 8.1.1 | iOS 8.1.2 |iOS 8.1.3|iOS 8.2|iOS 8.3| iOS 8.4 |iOS 9.0 |iOS 9.0.1 |iOS 9.0.2|iOS 9.1|iOS 9.2 | iOS 9.2.1  |iOS 9.3| iOS 9.3.1|iOS 9.3.2|iOS 9.3.3|iOS 9.3.4 | iOS 9.3.5 ||device |iOS7.0 | iOS 7.0.1 |iOS 7.0.2| iOS 7.0.3|iOS 7.0.4	|iOS 7.0.5|iOS 7.0.6| iOS 7.1 |iOS 7.1.1| iOS 7.1.2|iOS 8.0|iOS 8.0.1|iOS 8.0.2| iOS 8.1 |iOS 8.1.1 | iOS 8.1.2 |iOS 8.1.3|iOS 8.2|iOS 8.3| iOS 8.4 |iOS 9.0 |iOS 9.0.1 |iOS 9.0.2|iOS 9.1|iOS 9.2 | iOS 9.2.1  |iOS 9.3| iOS 9.3.1|iOS 9.3.2|iOS 9.3.3|iOS 9.3.4 | iOS 9.3.5 |
+
+
 | iPhone 4S | Untested/Unknown | | Untested/Unknown || Untested/Unknown |----------|----------|----------|----------|----------|----------|
 | 	| N/A | | Untested/Unknown|  | Untested/Unknown |
 | 	| Untested/Unknown |  |Untested/Unknown | | Untested/Unknown |
