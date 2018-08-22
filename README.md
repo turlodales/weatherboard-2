@@ -109,7 +109,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 
 # Supported Devices iOS 8.0 to iOS 8.3
 | iOS |5S|6/+|
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|
 | iOS 8.0  | Untested/Unknown |Untested/Unknown |
 | iOS 8.0.1 	|Untested/Unknown |Untested/Unknown |
 | iOS 8.0.2| Untested/Unknown | Untested/Unknown |
