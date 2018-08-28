@@ -65,23 +65,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 9.3.5| working/tested |Untested/Unknown|Untested/Unknown |
 
 
-# Not Supported Devices Yet as i dont have
-| Device | Supports |
-|---------|----------|
-| iPhone 5 | Untested/Unknown  |
-| iPhone SE | Untested/Unknown  |
-| iPhone 6/+ | Untested/Unknown  |
-| iPhone 7/+ | Untested/Unknown |
-| iPhone 8 | Untested/Unknown |
-| iPhone X | Untested/Unknown  |
-| iPad Mini 4 | Untested/Unknown  |
-| iPad Air | Untested/Unknown  |
-| iPod Touch 6 | Untested/Unknown |
-| iPod Touch 5 | Untested/Unknown |
-
-iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
-
-
 # Devices 64Bit
 
 # Supported Devices 64Bit
@@ -144,30 +127,6 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPad Air 2 | iOS 9.3.3 | Working || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
 | iPad Air 2 | iOS 9.3.4 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | Untested/Unknown |
 | iPad Air 2 | iOS 9.3.5 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | Untested/Unknown |
-
-
-# Planned Supported Devices above iOS 10
-| Device | Supports |
-|---------|----------|
-| iPhone 5C | planned |
-| iPhone 5S | planned |
-| iPhone 6/+ | planned |
-| iPhone 6S/+ | planned |
-| iPhone 7/+ | planned |
-| iPhone SE | planned |
-| Apple TV 4 | planned |
-| Apple TV 4K | planned |
-
-
-# Not Supported Devices Yet above iOS 10
-| Device | Supports |
-|---------|----------|
-| iPhone 5S | Untested/Unknown |
-| iPhone 5C | Untested/Unknown |
-| iPhone 6S/+ | Untested/Unknown |
-| iPhone 8+ | Untested/Unknown |
-| iPad Air 2 | Untested/Unknown |
-| iPad Air Pro 12.9 | Untested/Unknown |
 
 
 new fetures:
