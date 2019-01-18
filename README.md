@@ -2,6 +2,60 @@
 
 a working verson of weatherboard 2 for but iOS 8.3 to 9.3.5
 
+Description
+
+Compatible with iOS 8 and 9
+
+| 32Bit / 64Bit | iOS Versions | Decsription | Web |
+|---------|----------|----------|----------|
+| Both  |  7.0 to 8.3       | WeatherBoard   | https://github.com/turlodales/WeatherBoard   |
+| 64Bit | 10.0 to 12.1.3 b4 | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
+
+
+WeatherBoard 2 brings temperature and forecast data to the lock screen. View the current temperature and weekly forecast all without leaving your lock screen.
+
+It includes over 80 different animated wallpapers. You can pick your favourite weather condition or have it update based on your location.
+
+Some of the animated wallpapers include:
+Severe Thunderstorm
+Lightning
+Hurricane
+Tropical Storm
+And many more!
+
+WeatherBoard 2 Features:
+Over 80 high quality, animated wallpapers
+Overlaying weather animations overtop of normal wallpapers
+Temperature and weekly forecast directly on the lock screen
+Support for Low Power Mode in iOS 9
+Full iPad support
+
+Supported Languages:
+1. 支持全中文本地化。
+2. 支援完整英文翻譯功能。
+3. 日本語へのローカライズ完全対応。
+4. Entièrement traduit en français.
+5. Completamente traducida a español.
+6. Tradução para o português.
+7. Supporto completo per la lingua italiana
+8. Unterstützt englische Lokalisierung.
+9. 전체 한국어 번역을 제공합니다.
+10. يدعم ترجمة اللغة الإنجليزية بالكامل.
+11. Поддерживпется полная локализация на русский язык.
+
+Configure options from Settings.
+
+See larger Screenshots below..
+View All Screenshots
+Advertisements
+
+What's New
+1.2.0 Change Log
+- Added iOS 9.3.3 support
+- Fixed crash caused by snooze bug
+
+Updated 	August 4, 2016
+
 Ver:1.2.0-1
 
 why am i putting is on github:
